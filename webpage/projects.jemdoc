@@ -1,8 +1,12 @@
 # jemdoc: menu{MENU}{projects.html}
+= Course projects 
+
 There is an individual and a group project in this course.
 
-== Individual Project
+== Individual project
 
-The individual project 
+The individual project will use Kaggle in-class competition. 
 
-== Group Project
+== Group project
+
+In group projects, students are required to form groups of 5 people (4 in rare circumstances) to work on a data-analytics related problem. Detailed specification of course projects can be found [MSBD5001_grouppj.pdf here].
