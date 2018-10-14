@@ -1,16 +1,13 @@
 # jemdoc: menu{MENU}{index.html}
 = MSBD5001: Foundations of data analytics
 
-MSBD5001 is offered in Fall 2018 by Kai Chen and Cecia Chan. 
+This course will provide fundamental techniques for data analytics, including data collection, data extraction, data integration and data cleansing. The students will learn how to manage and optimize the analytics value chain, including collecting and extracting the suitable values, selecting the right data processing processes, integrating the data from various resources, data governance, security and privacy for Big Data applications.
+
+MSBD5001 is offered in Fall 2018 by [mailto:kaichen@cse.ust.hk Kai Chen] and [mailto:kccecia@cse.ust.hk Cecia Chan]. 
 
 == Lectures
 
 Wed. 7:30-10:20 pm. CYT-G010
-
-== Tutorials
-
-The tutorials will be held in some lectures to introduce programming knowledges and mathematical concepts related to the lectures. 
-The tutorials will take the last hour of lectures.
 
 == Pre-requisites
 
@@ -21,10 +18,30 @@ The required background of this course includes:
 
 Programming skills is a plus but not necessary. We will have in-class tutorials on related programming contents.
 
-== Syllabus
+== Topics:
 
-This course introduces the basic concepts of data analytics. The main contents to be covered in the lectures are:
-- 
+The following topics will be discussed in the lectures:
+
+- Data analytics techniques:
+-- Supervised learning: classification, regression
+-- Bias-variance tradeoff, overfitting, ensemble learning
+-- Unsupervised learning: clustering, PCA, PageRank
+- Data cleansing, similarity measures
+- Data integration: 
+-- Schema alignment
+-- Record matching
+-- Data fusion
+- Data privacy and security
+
+== Tutorials
+
+The tutorials will be held in some lectures to introduce programming knowledges and mathematical concepts related to the lectures. 
+The tutorials will take the last hour of lectures.
+
+Main topics to be covered in tutorials:
+- Data analytics with Python and Sklearn
+- Deep learning tutorial with TensorFlow
+- Using Kaggle and Github
 
 == Grading scheme
 
@@ -33,15 +50,21 @@ The grading of this course consists of 3 parts:
 - Individual project (Kaggle competition): 20%
 - Group project: 40%
 
+There is no final exam for this course. The grades will be regularly updated on Canvas.
+
 == References
 
 We don't have official textbooks. There are two books for your reference:
+
+- T. Hastie, `The Elements of Statistical Learning', Springer, 2009
+- `Big Data Integration', Morgan & Claypool, 2015, Luna Dong, Divesh Srivastava
 
 == Contact
 
 Instructors:
 - Kai Chen
 - Cecia Chan
+
 TA:
 - Jiacheng Xia
 

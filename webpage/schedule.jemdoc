@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{schedule.html}
+= Course schedule
+
+The lecture schedule may be subject to changes. Please check back before the class. The tutorial schedule can be found here.
+
+The slides can be found on Canvas
+
+~~~
+{}{table}{SCHEDULE}
+first entry  | another entry ||
+as many rows | as you like   ||
+bottom row   | last entry
+~~~
