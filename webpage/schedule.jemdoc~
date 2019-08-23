@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{schedule.html}
+= Course schedule
+
+The lecture schedule may be subject to changes. Please check back before the class. The tutorial schedule can be found here.
+
+The slides can be found on Canvas
+
+~~~
+{}{table}{SCHEDULE}
+Date     | Lecture Contents | Tutorials ||
+5-9-2018 | Course introduction ([msbd5001_intro.pdf PDF]); Math review ([Lecture1.pdf PDF]) | Intro to Python ([Tutorial1a.pdf PDF])||
+12-9-2018 | Supervised Learning: linear models, kNN, Decision Trees ([Lecture2.pdf PDF]) | Sklearn (1) ([Tutorial2.pdf PDF])||
+19-9-2018 | Bias-variance tradeoff; ensemble learning; overfitting ([Lecture3.pdf PDF])| Sklearn (2) ||
+26-9-2018 | Unsupervised learning: clustering; PCA; PageRank ([Lecture4.pdf PDF])| Kaggle and Github ([Tutorial4.pdf PDF])||
+3-10-2018 | Neural Networks | TensorFlow workshop ([tf.pdf PDF])||
+10-10-2018 | Midterm Exam | No tutorial ||
+17-10-2018 | Public holiday, no class |  ||
+24-10-2018 | Proposal presentation |  ||
+31-10-2018 | Similarity measure; Schema alignment | No tutorial ||
+7-11-2018 | Data integration: record matching | Individual project hints ||
+14-11-2018 | Data fusion; Data privacy & security | No tutorial ||
+21-11-2018 | Project Presentation 1 |  ||
+28-11-2018 | Project Presentation 2 |
+
+
+~~~
